@@ -10,3 +10,6 @@
 2024-03-23 12:53:04.934 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 20.0.1 with PID 5132 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
 2024-03-23 12:53:04.937 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
 2024-03-23 12:53:07.442 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 3.262 seconds (process running for 5.401)
+2024-03-23 12:55:16.494 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 20.0.1 with PID 12708 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
+2024-03-23 12:55:16.497 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-03-23 12:55:19.397 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 3.64 seconds (process running for 5.95)

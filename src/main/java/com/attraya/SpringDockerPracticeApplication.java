@@ -11,7 +11,7 @@ public class SpringDockerPracticeApplication {
 
 	@GetMapping("/greet")
 	public String greeting(){
-		return "Welcome to Spring Boot Application using Docker! Your application is running :)";
+		return "Welcome to Spring Boot Application using Docker! Your application is running. Pushing to Docker Hub :)";
 	}
 
 	public static void main(String[] args) {
