@@ -40,14 +40,14 @@
 					</image>
 				</configuration>
 			</plugin>
-			<plugin>
-				<groupId>com.google.cloud.tools</groupId>
-				<artifactId>jib-maven-plugin</artifactId>
-				<version>3.2.1</version>
-				<configuration>
-					<to>spring-docker:5.0</to>
-				</configuration>
-			</plugin>
+<!--			<plugin>-->
+<!--				<groupId>com.google.cloud.tools</groupId>-->
+<!--				<artifactId>jib-maven-plugin</artifactId>-->
+<!--				<version>3.2.1</version>-->
+<!--				<configuration>-->
+<!--					<to>spring-docker:5.0</to>-->
+<!--				</configuration>-->
+<!--			</plugin>-->
 		</plugins>
 		<finalName>spring-docker</finalName>
 	</build>

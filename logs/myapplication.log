@@ -1,3 +1,12 @@
 2024-03-20 02:50:18.594 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 20.0.1 with PID 15964 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
 2024-03-20 02:50:18.596 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
 2024-03-20 02:50:21.102 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 3.15 seconds (process running for 4.716)
+2024-03-21 00:00:50.544 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 17.0.10 with PID 13476 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
+2024-03-21 00:00:50.547 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-03-21 00:00:52.638 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 2.744 seconds (process running for 4.619)
+2024-03-21 00:03:00.381 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 17.0.10 with PID 4852 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
+2024-03-21 00:03:00.393 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-03-21 00:03:02.768 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 3.258 seconds (process running for 5.315)
+2024-03-23 12:53:04.934 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Starting SpringDockerPracticeApplicationTests using Java 20.0.1 with PID 5132 (started by Attraya in C:\Users\Attraya\Documents\spring-docker-practice)
+2024-03-23 12:53:04.937 [main] INFO  c.a.SpringDockerPracticeApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-03-23 12:53:07.442 [main] INFO  c.a.SpringDockerPracticeApplicationTests - Started SpringDockerPracticeApplicationTests in 3.262 seconds (process running for 5.401)
